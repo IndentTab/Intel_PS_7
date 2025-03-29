@@ -10,3 +10,5 @@ Two datasets are required for this project. DSD 50k is a collected of the first 
 DSD 50k: https://www.kaggle.com/datasets/meltqx/dsd-50k/data
 
 DSD Embeddings: https://www.kaggle.com/datasets/meltqx/primecai
+
+If using DSD 50k, disable the initial code to download and extract the zip file contain the images in the ipynb file.
