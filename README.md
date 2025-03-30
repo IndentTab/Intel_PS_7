@@ -12,3 +12,9 @@ DSD 50k: https://www.kaggle.com/datasets/meltqx/dsd-50k/data
 DSD Embeddings: https://www.kaggle.com/datasets/meltqx/primecai
 
 If using DSD 50k, disable the initial code to download and extract the zip file contain the images in the ipynb file.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/f25acb4c-bf5b-4d74-81a5-5f697ce5e94a
+
