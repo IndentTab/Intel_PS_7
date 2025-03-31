@@ -12,7 +12,7 @@ processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 # Load dataset in streaming mode to avoid long download times
 dataset = load_dataset("primecai/dsd_data", split="train", streaming=True)
 
-# Limit the number of samples to process (avoid Kaggle crash)
+# Limit the number of samples to process to avoid Kaggle crash
 max_samples = 50000
 data = []
 count = 0
