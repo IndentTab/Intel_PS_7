@@ -21,3 +21,39 @@ If using DSD 50k, disable the initial code to download and extract the zip file 
 
 https://github.com/user-attachments/assets/4d4d1299-4dd2-4c8d-a778-1949f90eba7e
 
+## Contributors
+### Srijita Saha - CLIP
+
+Student at SRMIST
+
+RA2211028010048
+
+ss2205@srmist.edu.in
+
+
+### Tejas Vipin - FAISS
+
+Student at SRMIST
+
+RA2211028010046
+
+tv8721@srmist.edu.in
+
+
+### Chirag Jain - Gradio
+
+Student at SRMIST
+
+RA2211028010047
+
+cj2063@srmist.edu.in
+
+## Mentor
+### Annapurani.K
+Professor, NWC
+
+100160
+
+annapook@srmist.edu.in 
+
+9444088915
