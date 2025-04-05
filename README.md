@@ -22,7 +22,7 @@ If using DSD 50k, disable the initial code to download and extract the zip file 
 https://github.com/user-attachments/assets/4d4d1299-4dd2-4c8d-a778-1949f90eba7e
 
 ## Report
-Available to read [here](https://github.com/IndentTab/Intel_PS_7/blob/main/VLM%20Visual%20Search%20Report.pdf)
+Available to read [here](https://github.com/IndentTab/Intel_PS_7/blob/9381d142b9a3d0258ed0df0e05499f826dfa67a1/VLM%20Visual%20Search%20Report..pdf)
 
 ## Contributors
 ### Srijita Saha - CLIP
